@@ -5,6 +5,6 @@ Meus projetos em Python (João aqui):
 * [Gerador de Desculpas English Edition](https://replit.com/@JoaoVML42/ExcuseGeneratorEnEdition#main.py)
 * [Bingo personalizável versão beta](https://replit.com/@JoaoVML42/Bingo)
 ***
-Em resumo, todos os projetos aqui presentes são pessoais e não possuem -até o presente momento- qualquer ligação com alguma instituição de ensino.
+Em resumo, todos os projetos aqui presentes são pessoais e não possuem - até o presente momento - qualquer ligação com alguma instituição de ensino.
 Aproveite um pouco a leveza de códigos estúpidos em sua vida. É como dizem:
 > Hakuna Matata
