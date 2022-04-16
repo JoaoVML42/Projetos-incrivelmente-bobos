@@ -6,5 +6,5 @@ Meus projetos em Python (João aqui):
 * [Bingo personalizável versão beta](https://replit.com/@JoaoVML42/Bingo)
 ***
 Em resumo, todos os projetos aqui presentes são pessoais e não possuem -até o presente momento- qualquer ligação com alguma instituição de ensino.
-Como dizem,
+Aproveite um pouco a leveza de códigos estúpidos em sua vida. É como dizem:
 > Hakuna Matata
